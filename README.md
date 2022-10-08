@@ -1,8 +1,6 @@
-### Hi 👋
+### [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=000000&center=%E7%9C%9F&vCenter=%E7%9C%9F&width=435&lines=Hello+my+friend!;Welcome+to+my+dashboard!)](https://git.io/typing-svg)
 
-This is Tongrens's dashboard.
-
-You can see some of my scripts here or go to [My Index Web](https://www.tongrens.vip).
+![](https://github-readme-stats.vercel.app/api?username=Tongrens&show_icons=true&count_private=true)
 
 <!--
 **Tongrens/Tongrens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
