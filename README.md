@@ -6,6 +6,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Tongrens&show_icons=true&count_private=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=argvchs)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=argvchs&layout=compact)
+
 <!--
 **Tongrens/Tongrens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
