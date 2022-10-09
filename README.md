@@ -1,5 +1,8 @@
 ### [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=2000&pause=5000&color=000000&center=%E7%9C%9F&vCenter=%E7%9C%9F&width=435&lines=Hello+my+friend!;Welcome+to+my+dashboard!)](https://git.io/typing-svg)
 
+✨ Blog: https://tongrens.me
+✨ Web: https://tongrens.vip
+
 ![](https://github-readme-stats.vercel.app/api?username=Tongrens&show_icons=true&count_private=true)
 
 <!--
