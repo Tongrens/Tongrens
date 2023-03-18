@@ -2,8 +2,6 @@
 
 ✨ Blog: https://tongrens.me
 
-✨ Web: https://tongrens.vip
-
 ![](https://github-readme-stats.vercel.app/api?username=Tongrens&show_icons=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=argvchs)
